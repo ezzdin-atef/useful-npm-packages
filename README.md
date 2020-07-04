@@ -34,3 +34,4 @@ The Package | Description
 [axios](https://www.npmjs.com/package/axios) | Promise based HTTP client for the browser and node.js
 [raven-js](https://www.npmjs.com/package/raven-js) | Required for Sentry which provides self-hosted and cloud-based error monitoring
 [jwt-decode](https://www.npmjs.com/package/jwt-decode) | Helps decoding JWTs token which are Base64Url encoded.
+[serve](https://www.npmjs.com/package/serve) | Serve a static site
