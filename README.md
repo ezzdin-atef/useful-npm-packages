@@ -35,3 +35,4 @@ The Package | Description
 [raven-js](https://www.npmjs.com/package/raven-js) | Required for Sentry which provides self-hosted and cloud-based error monitoring
 [jwt-decode](https://www.npmjs.com/package/jwt-decode) | Helps decoding JWTs token which are Base64Url encoded.
 [serve](https://www.npmjs.com/package/serve) | Serve a static site
+[live-server](https://www.npmjs.com/package/live-server) | Little development server with live reload capability
