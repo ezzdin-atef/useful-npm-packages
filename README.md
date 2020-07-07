@@ -36,3 +36,4 @@ The Package | Description
 [jwt-decode](https://www.npmjs.com/package/jwt-decode) | Helps decoding JWTs token which are Base64Url encoded.
 [serve](https://www.npmjs.com/package/serve) | Serve a static site
 [live-server](https://www.npmjs.com/package/live-server) | Little development server with live reload capability
+[nestjs-typeorm-paginate](https://www.npmjs.com/package/nestjs-typeorm-paginate) | Pagination helper method for TypeORM repostiories or queryBuilders with strict typings
