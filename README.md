@@ -37,3 +37,4 @@ The Package | Description
 [serve](https://www.npmjs.com/package/serve) | Serve a static site
 [live-server](https://www.npmjs.com/package/live-server) | Little development server with live reload capability
 [nestjs-typeorm-paginate](https://www.npmjs.com/package/nestjs-typeorm-paginate) | Pagination helper method for TypeORM repostiories or queryBuilders with strict typings
+[node-sass](https://www.npmjs.com/package/node-sass) | Compile your sass file to css
